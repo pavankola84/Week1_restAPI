@@ -1,0 +1,2 @@
+docker pull pavankola84/dock-js:0.0.1.RELEASE 
+// docker command to import application from docker hub
